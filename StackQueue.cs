@@ -5,6 +5,7 @@ using UnityEngine;
 
 //Stack queue (a stack that also function queue at the same time) created by Will Gardner a long time ago based on a stackoverflow  solution for making
 //a queue out of a stack. 
+//Mit liscense in git
 public class StackQueue<T>
 {
   //
